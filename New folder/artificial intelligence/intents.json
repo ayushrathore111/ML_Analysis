@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hello","hii","hey","wakeup","jarvis"
+
+      ],
+      "responces": ["hello sir","how are you sir","kya seva kru sir ","hope you are fine sir "
+
+      ]
+      },
+      {"tag": "bye",
+      "patterns": ["bye","good bye","getlost","go now","see you later","sleep","exit"
+
+      ],
+      "responces": ["bye sir","c u later sir ","good bye sir","sweet dreams sir "
+
+      ]
+    }
+    
+  ]
+}
